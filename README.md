@@ -21,14 +21,30 @@ Engineering is my playground for creativity, continuous learning, and collaborat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenrenji&show_icons=true&theme=radical)
+<!-- Dynamic Typing SVG for welcome message -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Naveen!)](https://git.io/typing-svg)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naveenrenji&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Visitor Count -->
+![Visitor Count](https://komarev.com/ghpvc/?username=naveenrenji&label=Profile%20views&color=000000&style=flat)
 
-## 📈 Activity Graph
-[![Your Name's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=naveenrenji&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Detailed GitHub Stats Card -->
+![Chirayu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenrenji&theme=darcula)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenrenji&theme=dark)
+
+<!-- Most Used Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenrenji&theme=dark&layout=compact)
+
+<!-- GitHub Activity Graph --> 
+[![Chirayu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenrenji&theme=react-dark&hide_border=true)](https://github.com/naveenrenji/github-readme-activity-graph) 
+
+![Chirayu's GitHub activity graph darcula stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenrenji&theme=darcula)
+![Chirayu's GitHub activity graph darcula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveenrenji&theme=darcula&utcOffset=8)
+
+<!-- Footer Image or Animation -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naveenrenji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
