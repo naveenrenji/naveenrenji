@@ -9,7 +9,7 @@
 
 ## 🚀 Software Engineer skilled in Full-Stack Development and Natural Language Processing
 
-# About Me
+### About Me
 I believe that engineering is more than just coding—it's intuition, creativity, and problem-solving all rolled into one. 🚀
 
 I’m passionate about understanding and translating business needs into tangible, impactful software. From designing end-to-end solutions that drive real value to reimagining architectures for scalability and efficiency, I focus on building robust systems that perform and solve real-world challenges.
