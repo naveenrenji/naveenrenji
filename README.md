@@ -24,23 +24,17 @@ Engineering is my playground for creativity, continuous learning, and collaborat
 <!-- Dynamic Typing SVG for welcome message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Naveen!)](https://git.io/typing-svg)
 
-<!-- Visitor Count -->
-![Visitor Count](https://komarev.com/ghpvc/?username=naveenrenji&label=Profile%20views&color=000000&style=flat)
-
 <!-- Detailed GitHub Stats Card -->
-![Chirayu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenrenji&theme=darcula)
+![Naveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenrenji&theme=darcula)
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenrenji&theme=dark)
 
-<!-- Most Used Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenrenji&theme=dark&layout=compact)
-
 <!-- GitHub Activity Graph --> 
-[![Chirayu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenrenji&theme=react-dark&hide_border=true)](https://github.com/naveenrenji/github-readme-activity-graph) 
+[![Naveen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenrenji&theme=react-dark&hide_border=true)](https://github.com/naveenrenji/github-readme-activity-graph) 
 
-![Chirayu's GitHub activity graph darcula stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenrenji&theme=darcula)
-![Chirayu's GitHub activity graph darcula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveenrenji&theme=darcula&utcOffset=8)
+![Naveen's GitHub activity graph darcula stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenrenji&theme=darcula)
+![Naveen's GitHub activity graph darcula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveenrenji&theme=darcula&utcOffset=8)
 
 <!-- Footer Image or Animation -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
