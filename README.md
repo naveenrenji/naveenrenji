@@ -1,4 +1,6 @@
-# Hi there, I'm Naveen Mathews Renji 👋
+<!-- Dynamic Typing SVG for welcome message -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Naveen!)](https://git.io/typing-svg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-renii)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenrenii)
@@ -6,6 +8,38 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=your-google-scholar-id)
 
 ## 🚀 Software Engineer skilled in Full-Stack Development and Natural Language Processing
+
+# About Me
+I believe that engineering is more than just coding—it's intuition, creativity, and problem-solving all rolled into one. 🚀
+
+I’m passionate about understanding and translating business needs into tangible, impactful software. From designing end-to-end solutions that drive real value to reimagining architectures for scalability and efficiency, I focus on building robust systems that perform and solve real-world challenges.
+
+I thrive on turning complex concepts into elegant software, whether it's developing high-performance data pipelines, leading the transition to microservices, or crafting full-stack applications that align with user needs and business goals.
+
+Engineering is my playground for creativity, continuous learning, and collaboration. Let’s connect and chat about AI, problem-solving, or anything tech! 💡💻✨
+
+<!-- Detailed GitHub Stats Card -->
+![Naveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenrenji&theme=darcula)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenrenji&theme=dark)
+
+<!-- GitHub Activity Graph --> 
+[![Naveen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenrenji&theme=react-dark&hide_border=true)](https://github.com/naveenrenji/github-readme-activity-graph) 
+
+![Naveen's GitHub activity graph darcula stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenrenji&theme=darcula)
+![Naveen's GitHub activity graph darcula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveenrenji&theme=darcula&utcOffset=8)
+
+<!-- Footer Image or Animation -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naveenrenji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=your-username&icon=0&color=0)](https://visitcount.itsvg.in)
+](url)
 
 ### 🛠️ Skills
 
@@ -64,23 +98,6 @@
 - Augmenting Engineering Design With AI: Introducing the AI Design Assistant (AIDA) (Aug 2024)
 - Real-time translation of Indian Sign Language to assist the hearing and speech impaired (Aug 2021)
 
-## 📊 GitHub Stats
-
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenrenii&show_icons=true&theme=radical)
-
-## 🔝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenrenii&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=naveenrenii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📈 Contribution Graph
-
-[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenrenii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ![](https://komarev.com/ghpvc/?username=naveenrenii&color=blueviolet)
 
@@ -90,63 +107,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Hi there, I'm Naveen 👋
-
-## About Me
-I believe that engineering is more than just coding—it's intuition, creativity, and problem-solving all rolled into one. 🚀
-
-I’m passionate about understanding and translating business needs into tangible, impactful software. From designing end-to-end solutions that drive real value to reimagining architectures for scalability and efficiency, I focus on building robust systems that perform and solve real-world challenges.
-
-I thrive on turning complex concepts into elegant software, whether it's developing high-performance data pipelines, leading the transition to microservices, or crafting full-stack applications that align with user needs and business goals.
-
-Engineering is my playground for creativity, continuous learning, and collaboration. Let’s connect and chat about AI, problem-solving, or anything tech! 💡💻✨
-
-## 🔭 I'm currently working on
-- Bragr - The AI sports and betting companion
-- Steve -The AI Career Coach
-
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-renji/)
-
-## 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-<!-- Dynamic Typing SVG for welcome message -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Naveen!)](https://git.io/typing-svg)
-
-<!-- Detailed GitHub Stats Card -->
-![Naveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenrenji&theme=darcula)
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenrenji&theme=dark)
-
-<!-- GitHub Activity Graph --> 
-[![Naveen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenrenji&theme=react-dark&hide_border=true)](https://github.com/naveenrenji/github-readme-activity-graph) 
-
-![Naveen's GitHub activity graph darcula stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenrenji&theme=darcula)
-![Naveen's GitHub activity graph darcula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveenrenji&theme=darcula&utcOffset=8)
-
-<!-- Footer Image or Animation -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naveenrenji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=your-username&icon=0&color=0)](https://visitcount.itsvg.in)
-](url)
