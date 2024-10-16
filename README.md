@@ -36,10 +36,6 @@ Engineering is my playground for creativity, continuous learning, and collaborat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naveenrenji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=your-username&icon=0&color=0)](https://visitcount.itsvg.in)
-](url)
-
 ### 🛠️ Skills
 
 #### Programming Languages
